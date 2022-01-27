@@ -19,4 +19,4 @@ Such contact gets reported to the **REST-API** to collect and store the data in 
 
 New and existing users can then explore the spread of the lume fire over time using the Map view.
 
-[Read more...](./ProjectDetails.md)
+[Read more...](../ProjectDetails.md)
