@@ -44,5 +44,5 @@ For more details on program flows etc. see the following Diagramms:
 - [Use Cases](../diagrams/UseCases.md)
 - [Services interrelationships](../diagrams/Services.md)
 - [State Machine for the App](../diagrams/AppStateMachine.md)
-- [Sequence Diagramm for lighting a new device](../diagramms/MainSequenceDiagram.md)
+- [Sequence Diagramm for lighting a new device](../diagrams/MainSequenceDiagram.md)
 - [Sequence Diagramm for ErrorHandling](../diagrams/SequenceDiagramErrorHandling.md)
