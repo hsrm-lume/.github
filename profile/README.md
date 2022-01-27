@@ -5,11 +5,11 @@ lume is a software project to share a digital olympic torch.
 ## How it works
 
 Users can pass on their flame to non-lit devices. This can happen through NFC (which is exclusive to android devices) or a QR code.
-This way, the fire can spread
+This way, the fire can spread.
 
 ## Interaction of the components
 
-![](https://user-images.githubusercontent.com/54647612/151274861-ca9c4ee4-02a6-4e75-91f7-c55b29164160.png)
+![](https://user-images.githubusercontent.com/54647612/151425953-cb5d4242-6b29-4644-97d8-8855b9fcecc4.png)
 
 The project consists of four main parts shown in the graph above.
 
@@ -38,3 +38,13 @@ The REST-API serves as an interface between the neo4j database and reporting app
 ### Neo4j
 
 Neo4j is used to store the tree-like datastructure because it offers great performance and easy querying even of more complex interrelationships.
+
+## Diagrams
+
+For more details on program flows etc. see the following Diagramms:
+
+- [Use Cases](../diagrams/UseCases.md)
+- [Services interrelationships](../diagrams/Services.md)
+- [State Machine for the App](../diagrams/AppStateMachine.md)
+- [Sequence Diagramm for lighting a new device](../diagramms/MainSequenceDiagram.md)
+- [Sequence Diagramm for ErrorHandling](../diagrams/SequenceDiagramErrorHandling.md)
